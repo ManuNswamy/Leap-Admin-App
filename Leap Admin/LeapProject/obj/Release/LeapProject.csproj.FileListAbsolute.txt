@@ -1,0 +1,225 @@
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\LeapProject.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\LeapProject.pdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\com.company.LeapProject.apk
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\com.company.LeapProject-Signed.apk
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\crypto.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Firebase.Xamarin.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\JWT.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Newtonsoft.Json.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\SQLite-net.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\SQLitePCL.raw.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\System.Reactive.Core.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\System.Reactive.Interfaces.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\System.Reactive.Linq.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\System.Reactive.PlatformServices.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Torman.Swipeable.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.pdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.dll.mdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\SQLite-net.dll.mdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\LeapProject.csprojResolveAssemblyReference.cache
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\LeapProject.csproj.CoreCompileInputs.cache
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\LeapProject.dll
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\LeapProject.pdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\android\bin\com.company.LeapProject.apk
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\main.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\detail_dialog.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\deletesessionbyname._dialog.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\rowlayout.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\user_input_dialog.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\view_session_details.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\topperlayout.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\layout\progresslayout.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values\strings.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable\icon.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values\styles.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values\colors.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values\dimens.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values\integers.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values\arrays.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\values-v21\styles.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-xxxhdpi\icon.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-mdpi\icon.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\menu\menu_main.xml
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\ic_award.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable\background.jpg
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\ic_add.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-mdpi\ic_add.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-xhdpi\ic_add.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-xxhdpi\ic_add.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\res\drawable-xxxhdpi\ic_add.png
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\R.cs.flag
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\uploadflags.txt
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\bin\Release\LeapProject.dll.mdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\android\assets\Binding_SwipeActionAdapter.dll.mdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\android\assets\LeapProject.dll.mdb
+C:\Users\narayanswamy_s\source\repos\LeapProject\LeapProject\obj\Release\android\assets\SQLite-net.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\LeapProject.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\LeapProject.pdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\com.company.LeapProject.apk
+D:\Android Applications\LeapProject\LeapProject\bin\Release\com.company.LeapProject-Signed.apk
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\crypto.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Firebase.Xamarin.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\JWT.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Newtonsoft.Json.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\SQLite-net.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\SQLitePCL.raw.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\System.Reactive.Core.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\System.Reactive.Interfaces.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\System.Reactive.Linq.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\System.Reactive.PlatformServices.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Torman.Swipeable.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.pdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.pdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.xml
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.pdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.xml
+D:\Android Applications\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\bin\Release\SQLite-net.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\LeapProject.csproj.CoreCompileInputs.cache
+D:\Android Applications\LeapProject\LeapProject\obj\Release\LeapProject.dll
+D:\Android Applications\LeapProject\LeapProject\obj\Release\LeapProject.pdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\android\bin\com.company.LeapProject.apk
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\main.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\detail_dialog.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\deletesessionbyname._dialog.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\rowlayout.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\user_input_dialog.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\view_session_details.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\topperlayout.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\progresslayout.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\connectionerror.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\layout\input_question.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values\strings.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable\icon.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values\styles.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values\colors.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values\dimens.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values\integers.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values\arrays.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\values-v21\styles.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-xxhdpi\icon.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-xxxhdpi\icon.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\icon.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-mdpi\icon.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-xhdpi\icon.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\menu\menu_main.xml
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\ic_award.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable\background.jpg
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\ic_add.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-mdpi\ic_add.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-xhdpi\ic_add.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-xxhdpi\ic_add.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\res\drawable-xxxhdpi\ic_add.png
+D:\Android Applications\LeapProject\LeapProject\obj\Release\R.cs.flag
+D:\Android Applications\LeapProject\LeapProject\obj\Release\uploadflags.txt
+D:\Android Applications\LeapProject\LeapProject\bin\Release\LeapProject.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\android\assets\Binding_SwipeActionAdapter.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\android\assets\LeapProject.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\android\assets\Plugin.Connectivity.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\android\assets\SQLite-net.dll.mdb
+D:\Android Applications\LeapProject\LeapProject\obj\Release\LeapProject.csprojResolveAssemblyReference.cache
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\LeapProject.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\LeapProject.pdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\com.company.LeapProject.apk
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\com.company.LeapProject-Signed.apk
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\crypto.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Firebase.Xamarin.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\JWT.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Newtonsoft.Json.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\SQLite-net.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\SQLitePCL.raw.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\System.Reactive.Core.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\System.Reactive.Interfaces.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\System.Reactive.Linq.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\System.Reactive.PlatformServices.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Torman.Swipeable.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.pdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Binding_SwipeActionAdapter.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.pdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.pdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\Plugin.Connectivity.Abstractions.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\SQLite-net.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\LeapProject.csprojResolveAssemblyReference.cache
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\LeapProject.csproj.CoreCompileInputs.cache
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\LeapProject.dll
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\LeapProject.pdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\android\bin\com.company.LeapProject.apk
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\rowlayout.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\createsessionlayout.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\view_session_details.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\topperlayout.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\progresslayout.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values\strings.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable\icon.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values\styles.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values\colors.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values\dimens.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values\integers.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values\arrays.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\values-v21\styles.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-xxhdpi\icon.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-xxxhdpi\icon.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\icon.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-mdpi\icon.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-xhdpi\icon.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\menu\menu_main.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\ic_award.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable\background.jpg
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-hdpi\ic_add.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-mdpi\ic_add.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-xhdpi\ic_add.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-xxhdpi\ic_add.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\drawable-xxxhdpi\ic_add.png
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\R.cs.flag
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\uploadflags.txt
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\bin\Release\LeapProject.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\android\assets\Binding_SwipeActionAdapter.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\android\assets\LeapProject.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\android\assets\Plugin.Connectivity.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\android\assets\SQLite-net.dll.mdb
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\mainlayout.xml
+D:\New Android Applications\TO GIT\LeapProject\LeapProject\obj\Release\res\layout\edit_session_details.xml

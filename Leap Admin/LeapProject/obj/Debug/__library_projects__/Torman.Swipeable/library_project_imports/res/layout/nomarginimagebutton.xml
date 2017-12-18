@@ -1,0 +1,1 @@
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="0dp" android:layout_weight="1" android:padding="12dp" android:clickable="true" xmlns:android="http://schemas.android.com/apk/res/android"><ImageView android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/Image" android:layout_centerInParent="true" /></RelativeLayout>
