@@ -1,0 +1,4 @@
+layout/NoMarginButton.axml;layout/nomarginbutton.xml
+layout/SwipeBase.axml;layout/swipebase.xml
+layout/NoMarginImageButton.axml;layout/nomarginimagebutton.xml
+layout/ImageAndTextButton.axml;layout/imageandtextbutton.xml

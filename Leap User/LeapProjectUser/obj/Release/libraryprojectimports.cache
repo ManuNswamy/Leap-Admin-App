@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\narayanswamy_s\source\repos\LeapProjectUser\LeapProjectUser\obj\Release\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\narayanswamy_s\source\repos\LeapProjectUser\LeapProjectUser\obj\Release\__library_projects__\Torman.Swipeable\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\narayanswamy_s\source\repos\LeapProjectUser\LeapProjectUser\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Torman.Swipeable\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\narayanswamy_s\source\repos\LeapProjectUser\LeapProjectUser\obj\Release\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\narayanswamy_s\source\repos\LeapProjectUser\LeapProjectUser\obj\Release\__library_projects__\Torman.Swipeable.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\narayanswamy_s\source\repos\LeapProjectUser\LeapProjectUser\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
